@@ -1,0 +1,1016 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2636123,
+          53.3466227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5583147270195720925",
+        "Location": {
+          "Address": "Ormond Quay Lower Ormond Quay Lower, Dublin 1, D01 R9Y5, Ireland",
+          "Business Name": "Winding Stair Bookshop",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3466227",
+            "Longitude": "-6.2636123"
+          }
+        },
+        "Published": "2022-02-02T00:00:40Z",
+        "Title": "Winding Stair Bookshop",
+        "Updated": "2022-02-02T00:00:40Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2607210,
+          53.3493490
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3997546963155223462",
+        "Location": {
+          "Address": "O'Connell Street Lower, North City, Dublin 1, Ireland",
+          "Business Name": "An Post, General Post Office",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3493490",
+            "Longitude": "-6.2607210"
+          }
+        },
+        "Published": "2022-02-01T23:59:12Z",
+        "Title": "An Post, General Post Office",
+        "Updated": "2022-02-01T23:59:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2525147,
+          53.3409266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6412478312088603953",
+        "Location": {
+          "Address": "Merrion Square W, Dublin 2, D02 K303, Ireland",
+          "Business Name": "National Gallery of Ireland",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3409266",
+            "Longitude": "-6.2525147"
+          }
+        },
+        "Published": "2022-02-01T23:54:02Z",
+        "Title": "National Gallery of Ireland",
+        "Updated": "2022-02-01T23:54:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2714767,
+          53.3395154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10576957281329852756",
+        "Location": {
+          "Address": "St Patrick's Close, Dublin, D08 H6X3, Ireland",
+          "Business Name": "St Patrick's Cathedral",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3395154",
+            "Longitude": "-6.2714767"
+          }
+        },
+        "Published": "2022-02-01T23:50:34Z",
+        "Title": "St Patrick's Cathedral",
+        "Updated": "2022-02-01T23:50:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2577013,
+          53.3432805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18169889690408973767",
+        "Location": {
+          "Address": "Trinity College, Dublin 2, Ireland",
+          "Business Name": "The Douglas Hyde Gallery",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3432805",
+            "Longitude": "-6.2577013"
+          }
+        },
+        "Published": "2022-02-01T23:45:36Z",
+        "Title": "The Douglas Hyde Gallery",
+        "Updated": "2022-02-01T23:45:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2568336,
+          53.3439344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Old+Library,+South-East+Inner+City,+Dublin&ftid=0x48670e9ae43aeabf:0x9546e4c37b4a1c3e",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "53.3439344",
+            "Longitude": "-6.2568336"
+          }
+        },
+        "Published": "2022-02-01T23:45:19Z",
+        "Title": "Old Library, South-East Inner City, Dublin",
+        "Updated": "2022-02-01T23:45:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2662630,
+          53.3449790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13120476557788980326",
+        "Location": {
+          "Address": "39 Essex St E, Temple Bar, Dublin 2, D02 RD45, Ireland",
+          "Business Name": "Project Arts Centre",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3449790",
+            "Longitude": "-6.2662630"
+          }
+        },
+        "Published": "2022-02-01T17:11:27Z",
+        "Title": "Project Arts Centre",
+        "Updated": "2022-02-01T17:11:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2674284,
+          53.3428861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=364736554521941638",
+        "Location": {
+          "Address": "Dame St, Dublin 2, Ireland",
+          "Business Name": "Dublin Castle",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3428861",
+            "Longitude": "-6.2674284"
+          }
+        },
+        "Published": "2022-02-01T14:53:29Z",
+        "Title": "Dublin Castle",
+        "Updated": "2022-02-01T14:53:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2614074,
+          53.3462896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9898636050211566124",
+        "Location": {
+          "Address": "5 Aston Quay, Temple Bar, Dublin, D02 PN56, Ireland",
+          "Business Name": "The Hungry Mexican Restaurant",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3462896",
+            "Longitude": "-6.2614074"
+          }
+        },
+        "Published": "2022-02-01T14:53:04Z",
+        "Title": "The Hungry Mexican Restaurant",
+        "Updated": "2022-02-01T14:53:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2636547,
+          53.3455723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13501640657619827673",
+        "Location": {
+          "Address": "5-9 Temple Bar, Dublin 2, D02 AC84, Ireland",
+          "Business Name": "Temple Bar Gallery + Studios",
+          "Geo Coordinates": {
+            "Latitude": "53.3455723",
+            "Longitude": "-6.2636547"
+          }
+        },
+        "Published": "2022-02-01T14:52:04Z",
+        "Title": "Temple Bar Gallery + Studios",
+        "Updated": "2022-02-01T14:52:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2654250,
+          53.3453111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11023108795157940823",
+        "Location": {
+          "Address": "Meeting House Square, Temple Bar, Dublin, Ireland",
+          "Business Name": "National Photographic Archive",
+          "Geo Coordinates": {
+            "Latitude": "53.3453111",
+            "Longitude": "-6.2654250"
+          }
+        },
+        "Published": "2022-02-01T14:51:54Z",
+        "Title": "National Photographic Archive",
+        "Updated": "2022-02-01T14:51:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2654440,
+          53.3448232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13674611503754517258",
+        "Location": {
+          "Address": "Meeting House Square, Temple Bar, Dublin 2, Ireland",
+          "Business Name": "Photo Museum Ireland",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3448232",
+            "Longitude": "-6.2654440"
+          }
+        },
+        "Published": "2022-02-01T14:51:12Z",
+        "Title": "Gallery of Photography Ireland",
+        "Updated": "2022-02-01T14:51:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2591190,
+          53.3381736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=418010063000404860",
+        "Location": {
+          "Address": "St Stephen's Green, Dublin 2, Ireland",
+          "Business Name": "St Stephen's Green",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3381736",
+            "Longitude": "-6.2591190"
+          }
+        },
+        "Published": "2022-02-01T14:50:36Z",
+        "Title": "St Stephen's Green",
+        "Updated": "2022-02-01T14:50:36Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2663480,
+          53.3476110
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8538215402026166184",
+        "Location": {
+          "Address": "Twilfit House, Jervis St, Dublin, Ireland",
+          "Business Name": "National Leprechaun Museum of Ireland",
+          "Country Code": "IE",
+          "Geo Coordinates": {
+            "Latitude": "53.3476110",
+            "Longitude": "-6.2663480"
+          }
+        },
+        "Published": "2022-02-01T14:49:41Z",
+        "Title": "National Leprechaun Museum of Ireland",
+        "Updated": "2022-02-01T14:49:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1617876,
+          57.7826137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=J%C3%B6nk%C3%B6ping,+Su%C3%A8de&ftid=0x46508031565bd12d:0x8b01be57dcc2f66d",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "57.7826137",
+            "Longitude": "14.1617876"
+          }
+        },
+        "Published": "2021-10-03T14:45:41Z",
+        "Title": "Jönköping, Suède",
+        "Updated": "2021-10-03T14:45:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0685808,
+          59.3293235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Stockholm,+Su%C3%A8de&ftid=0x465f763119640bcb:0xa80d27d3679d7766",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "59.3293235",
+            "Longitude": "18.0685808"
+          }
+        },
+        "Published": "2021-10-03T14:40:56Z",
+        "Title": "Stockholm, Suède",
+        "Updated": "2021-10-03T14:40:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0919509,
+          -8.3405389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Bali,+Indonesia&ftid=0x2dd22f7520fca7d3:0x2872b62cc456cd84",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "-8.3405389",
+            "Longitude": "115.0919509"
+          }
+        },
+        "Published": "2021-08-17T14:03:53Z",
+        "Title": "Bali, Indonesia",
+        "Updated": "2021-08-17T14:03:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.3249438,
+          -8.6509790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Lombok,+Nusa+Tenggara+Occidental,+Indonesia&ftid=0x2dcdb7d23e8cc745:0x446689c4ab50d8c9",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "-8.6509790",
+            "Longitude": "116.3249438"
+          }
+        },
+        "Published": "2021-08-17T14:03:28Z",
+        "Title": "Lombok, Nusa Tenggara Occidental, Indonesia",
+        "Updated": "2021-08-17T14:03:28Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2547378,
+          43.7741946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8445681098414767932",
+        "Location": {
+          "Address": "Borgo S. Lorenzo, 31, 50121 Firenze FI, Italy",
+          "Business Name": "Trattoria Dall'Oste",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "43.7741946",
+            "Longitude": "11.2547378"
+          }
+        },
+        "Published": "2021-07-21T09:49:19Z",
+        "Title": "Trattoria Dall'Oste",
+        "Updated": "2021-07-21T09:49:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9924258,
+          37.3870701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2217247221352181496",
+        "Location": {
+          "Address": "C. de Placentines, 25, 41004 Sevilla, Spain",
+          "Business Name": "Pelayo Bar de Tapas",
+          "Country Code": "ES",
+          "Geo Coordinates": {
+            "Latitude": "37.3870701",
+            "Longitude": "-5.9924258"
+          }
+        },
+        "Published": "2021-07-01T17:17:18Z",
+        "Title": "Pelayo Bar de Tapas",
+        "Updated": "2021-07-01T17:17:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4536007,
+          41.9021788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=00120+Vatican+City&ftid=0x132f60660c3e3925:0x498c3835506c3c",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9021788",
+            "Longitude": "12.4536007"
+          }
+        },
+        "Published": "2021-06-20T13:38:26Z",
+        "Title": "Vatican City, 00120, Vatican City",
+        "Updated": "2021-06-20T13:38:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.4324470,
+          36.4166485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Thera+847+00,+Greece&ftid=0x1499cdce05e3bce9:0x9f4c192bbefa1db",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "36.4166485",
+            "Longitude": "25.4324470"
+          }
+        },
+        "Published": "2021-06-20T13:37:55Z",
+        "Title": "Thera, 847 00, Greece",
+        "Updated": "2021-06-20T13:37:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9041389,
+          52.3675734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Amsterdam,+Netherlands&ftid=0x47c63fb5949a7755:0x6600fd4cb7c0af8d",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "52.3675734",
+            "Longitude": "4.9041389"
+          }
+        },
+        "Published": "2021-06-20T13:37:00Z",
+        "Title": "Amsterdam, Netherlands",
+        "Updated": "2021-06-20T13:37:00Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3762881,
+          39.4699075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Valencia,+Spain&ftid=0xd604f4cf0efb06f:0xb4a351011f7f1d39",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.4699075",
+            "Longitude": "-0.3762881"
+          }
+        },
+        "Published": "2021-06-20T13:27:26Z",
+        "Title": "Valencia, Spain",
+        "Updated": "2021-06-20T13:27:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4963655,
+          41.9027835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Roma,+Italia&ftid=0x132f6196f9928ebb:0xb90f770693656e38",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9027835",
+            "Longitude": "12.4963655"
+          }
+        },
+        "Published": "2021-05-27T12:03:18Z",
+        "Title": "Roma, Italia",
+        "Updated": "2021-05-27T12:03:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.8240826,
+          44.1024504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=La+Spezia,+Italia&ftid=0x12d4fcc0baf15ead:0x323287ad285a4f80",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "44.1024504",
+            "Longitude": "9.8240826"
+          }
+        },
+        "Published": "2021-05-27T12:02:57Z",
+        "Title": "La Spezia, Italia",
+        "Updated": "2021-05-27T12:02:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2558136,
+          43.7695604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q&ftid=0x132a56a680d2d6ad:0x93d57917efc72a03",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "43.7695604",
+            "Longitude": "11.2558136"
+          }
+        },
+        "Published": "2021-05-27T12:02:12Z",
+        "Title": "Florencia, Italia",
+        "Updated": "2021-05-27T12:02:12Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Londres,+Reino+Unido&ftid=0x47d8a00baf21de75:0x52963a5addd52a99",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "51.5073509",
+            "Longitude": "-0.1277583"
+          }
+        },
+        "Published": "2021-05-19T09:42:31Z",
+        "Title": "Londres, Reino Unido",
+        "Updated": "2021-05-19T09:42:31Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.6322734,
+          46.5196535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Lausanne,+Switzerland&ftid=0x478c293ecd89a7e5:0xeb173fc9cae2ee5e",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "46.5196535",
+            "Longitude": "6.6322734"
+          }
+        },
+        "Published": "2021-04-30T15:59:24Z",
+        "Title": "Lausanne, Switzerland",
+        "Updated": "2021-04-30T15:59:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1899820,
+          45.4642035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Milan,+Metropolitan+City+of+Milan,+Italy&ftid=0x4786c1493f1275e7:0x3cffcd13c6740e8d",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "45.4642035",
+            "Longitude": "9.1899820"
+          }
+        },
+        "Published": "2021-04-30T15:54:43Z",
+        "Title": "Milan, Metropolitan City of Milan, Italy",
+        "Updated": "2021-04-30T15:54:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6868565,
+          45.0703120
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Turin,+Metropolitan+City+of+Turin,+Italy&ftid=0x47886d126418be25:0x8903f803d69c77bf",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "45.0703120",
+            "Longitude": "7.6868565"
+          }
+        },
+        "Published": "2021-04-30T15:54:29Z",
+        "Title": "Turin, Metropolitan City of Turin, Italy",
+        "Updated": "2021-04-30T15:54:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.1431577,
+          46.2043907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Geneva,+Switzerland&ftid=0x478c650693d0e2eb:0xa0b695357b0bbc39",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "46.2043907",
+            "Longitude": "6.1431577"
+          }
+        },
+        "Published": "2021-04-30T15:53:51Z",
+        "Title": "Geneva, Switzerland",
+        "Updated": "2021-04-30T15:53:51Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8356590,
+          45.7640430
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Lyon&ftid=0x47f4ea516ae88797:0x408ab2ae4bb21f0",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "45.7640430",
+            "Longitude": "4.8356590"
+          }
+        },
+        "Published": "2021-04-30T15:53:41Z",
+        "Title": "Lyon",
+        "Updated": "2021-04-30T15:53:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.4442090,
+          43.6046520
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Toulouse&ftid=0x12aebb6fec7552ff:0x406f69c2f411030",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "43.6046520",
+            "Longitude": "1.4442090"
+          }
+        },
+        "Published": "2021-04-30T15:53:19Z",
+        "Title": "Toulouse",
+        "Updated": "2021-04-30T15:53:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7037902,
+          40.4167754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Madrid,+Spain&ftid=0xd422997800a3c81:0xc436dec1618c2269",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.4167754",
+            "Longitude": "-3.7037902"
+          }
+        },
+        "Published": "2021-04-30T15:50:32Z",
+        "Title": "Madrid, Spain",
+        "Updated": "2021-04-30T15:50:32Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.3625516,
+          35.5888995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Tetouan,+Morocco&ftid=0xd0b425de2c14849:0x43258dbd024e7abc",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "35.5888995",
+            "Longitude": "-5.3625516"
+          }
+        },
+        "Published": "2021-04-30T15:49:38Z",
+        "Title": "Tetouan, Morocco",
+        "Updated": "2021-04-30T15:49:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.8339543,
+          35.7594651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Tangier,+Morocco&ftid=0xd0b875cf04c132d:0x76bfc571bfb4e17a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "35.7594651",
+            "Longitude": "-5.8339543"
+          }
+        },
+        "Published": "2021-04-30T15:49:25Z",
+        "Title": "Tangier, Morocco",
+        "Updated": "2021-04-30T15:49:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.9988540,
+          43.2439830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Cuxac-d'Aude&ftid=0x12b1aede667e2a39:0xd07ebdaceb92d8e5",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "43.2439830",
+            "Longitude": "2.9988540"
+          }
+        },
+        "Published": "2021-04-30T15:45:08Z",
+        "Title": "Cuxac-d'Aude",
+        "Updated": "2021-04-30T15:45:08Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Lisbon,+Portugal&ftid=0xd19331a61e4f33b:0x400ebbde49036d0",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "38.7222524",
+            "Longitude": "-9.1393366"
+          }
+        },
+        "Published": "2021-04-30T15:44:30Z",
+        "Title": "Lisbon, Portugal",
+        "Updated": "2021-04-30T15:44:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6291053,
+          41.1579438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Porto,+Portugal&ftid=0xd2465abc4e153c1:0xa648d95640b114bc",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.1579438",
+            "Longitude": "-8.6291053"
+          }
+        },
+        "Published": "2021-04-30T15:44:18Z",
+        "Title": "Porto, Portugal",
+        "Updated": "2021-04-30T15:44:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.7793835,
+          37.8881751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=C%C3%B3rdoba,+Spain&ftid=0xd6cdf26f95e0aef:0x4df1d2e8108456c3",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.8881751",
+            "Longitude": "-4.7793835"
+          }
+        },
+        "Published": "2021-04-30T15:43:29Z",
+        "Title": "Córdoba, Spain",
+        "Updated": "2021-04-30T15:43:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1734035,
+          41.3850639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Barcelona,+Spain&ftid=0x12a49816718e30e5:0x44b0fb3d4f47660a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.3850639",
+            "Longitude": "2.1734035"
+          }
+        },
+        "Published": "2021-04-30T15:42:54Z",
+        "Title": "Barcelona, Spain",
+        "Updated": "2021-04-30T15:42:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.5985571,
+          37.1773363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Granada,+Spain&ftid=0xd71fce62d32c27d:0x9258f79dd3600d72",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.1773363",
+            "Longitude": "-3.5985571"
+          }
+        },
+        "Published": "2021-04-30T15:42:17Z",
+        "Title": "Granada, Spain",
+        "Updated": "2021-04-30T15:42:17Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9844589,
+          37.3890924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Seville,+Spain&ftid=0xd126c1114be6291:0x34f018621cfe5648",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.3890924",
+            "Longitude": "-5.9844589"
+          }
+        },
+        "Published": "2021-04-30T15:42:00Z",
+        "Title": "Seville, Spain",
+        "Updated": "2021-04-30T15:42:00Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}
